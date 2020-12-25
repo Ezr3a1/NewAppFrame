@@ -1,0 +1,14 @@
+{
+  "home": "Home",
+  "message": "Message",
+  "news": "News",
+  "order": "Order",
+  "mine": "Mine",
+  "viewStateMessageError": "Load Failed",
+  "viewStateMessageNetworkError": "Load Failed,Check the network",
+  "viewStateMessageEmpty": "Nothing Found",
+  "viewStateMessageUnAuth": "Not sign in yet",
+  "viewStateButtonRefresh": "Refresh",
+  "viewStateButtonRetry": "Retry",
+  "viewStateButtonLogin": "Sign In"
+}
